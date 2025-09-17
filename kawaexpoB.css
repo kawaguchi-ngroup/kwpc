@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    font-size: 200%;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    background-color: #151b74;
+    display: inline-block;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header ul {
+    margin: 0px;
+    text-align: right;
+    padding: 0;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+header ul li a {
+    color: #FFFFFF;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+header h1 {
+    color: #FFFFFF;
+    font-size: 170%;
+    margin: 0px 0px;
+}
+
+
+.top{
+    margin: 0px;
+    text-align: center;
+}
+
+.top img {
+    height: auto;
+    width: 100%;
+}
+
+.title {
+    font-size: 200%;
+}
+
+.main {
+    text-align: center;
+    margin: 0px;
+}
+
+.main img {
+    height: auto;
+    width: 95%;
+    max-width: 600px;
+}
+
+.main table {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.text {
+    font-size: 120%;
+    padding: 15px;
+}
+
+.text h3 {
+    margin: 10px;
+}
+
+.text p {
+    margin: 0px;
+}
+
+.with {
+    width: 50%;
+}
+
+.food {
+    background-color: rgb(255, 244, 117);
+    color: #000000;
+    display: inline-flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: 100%;
+}
+
+.activity {
+    background-color: rgb(255, 145, 228);
+    color: black;
+    display: inline-flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: 100%;
+}
+
+.game {
+    background-color: rgb(190, 93, 255);
+    color: #000000;
+    display: inline-flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: 100%;
+}
+
+.entry {
+    background-color: rgb(120, 255, 255);
+    color: #000000;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.entry a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.c {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #151b74;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+    margin: 0px;
+    
+}
